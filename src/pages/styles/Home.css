@@ -1,0 +1,60 @@
+:root{
+    --primary: rgb(30, 15, 98);
+}
+.about{
+    background: rgb(30, 15, 98);
+    padding:50px;
+    color: white;
+
+}
+
+.about h2{
+    font-size: 40px;
+    color: rgb(222, 200, 75);
+    margin:4rem 0 2rem 0;
+}
+
+.about p{
+    
+    margin: 2rem 0;
+    line-height: 1.3rem;
+    word-spacing: .175em;
+}
+
+.social-icons{ 
+    display: flex;
+    justify-content: center;
+    font-size: 2.5rem;
+ }
+ .skills{
+    text-align: left;
+    margin: 2rem;
+    color: var(--primary)
+ }
+
+ .skills h1, h2{
+    color: var(--primary);
+    margin: 2rem;
+ }
+ .list{
+    list-style: none;
+ }
+
+ .social-icons li{
+    list-style: none;
+    margin: 0 7px;
+}
+
+.social-icons li:hover{
+    color: rgb(222, 200, 75);
+   
+    cursor: pointer;
+}
+
+.social-icons li a:visited{
+    color: white;
+}
+
+.social-icons li a:visited:hover{
+    color: rgb(222, 200, 75);
+}

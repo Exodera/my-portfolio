@@ -30,7 +30,7 @@ const Experience = () => {
          iconStyle={{background: "rgb(30, 15, 98)", color: "white"}}
          >
           <h3 className='timeline-title'> 
-            Attended Central University of Technology
+            Attended Central University of Technology, <br/>Free State
           </h3>
           <p>Currently working on Diploma in Information Technology</p>
 

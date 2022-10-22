@@ -1,0 +1,47 @@
+.project-items{
+    margin: 2rem 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(3, 250px);
+    grid-gap: 40px;
+    grid-auto-rows: 200px;
+}
+.project-item{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(30, 15, 98);
+    border-radius: 4px;
+    margin: 30px 0; 
+}
+
+.project-item:hover{
+    cursor: pointer;
+}
+
+.bgImage{
+    height: 130px;
+    background-size: cover;
+   
+    opacity: 1;
+}
+.project-item h3{
+    margin: 20px;
+}
+.projects h1{
+    margin: 2rem 0;
+}
+
+@media screen and (max-width: 1024px){
+    .project-items{
+        grid-template-columns: repeat(2, 250px);
+         
+    }
+}
+
+@media screen and (max-width: 768px){
+    .project-items{
+       display: block;
+       margin:  0 20px;    
+    }
+}
