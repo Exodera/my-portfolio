@@ -5,16 +5,19 @@ import ProjNotepad from '../assets/proj-notepad.jpg'
 export const projectList = [
     {
         name: "Notepad App",
-        image: ProjNotepad
+        image: ProjNotepad,
+        skills: 'JavaScript , ReactJS , HTML , CSS'
     },
 
     {
         name: "Bobo's Store",
-        image: ProjBobo
+        image: ProjBobo,
+        skills: 'JavaScript , ReactJS , HTML , CSS'
     },
     {
         name: "Fortune Teller App",
-        image: Proj1
+        image: Proj1,
+        skills: 'JavaScript , ReactJS , HTML , CSS'
     }
 
 

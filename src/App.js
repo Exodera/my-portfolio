@@ -5,6 +5,7 @@ import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 import Header from './components/Header/Header';
 import "./App.css"
+import ProjectDisplay from './components/ProjectDisplay/ProjectDisplay';
 
 
 
@@ -16,6 +17,7 @@ function App() {
         <Routes>
           <Route path='/' element = {<Home/>}/>
           <Route path='/Projects' element = {<Projects/>}/>
+          <Route path={'/Projects/:id'} element = {<ProjectDisplay/>}/>
           <Route path='/Experience' element = {<Experience/>}/>
         </Routes>
         <Footer/>

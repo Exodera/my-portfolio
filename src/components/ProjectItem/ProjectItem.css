@@ -8,6 +8,7 @@
     grid-auto-rows: 200px;
 }
 .project-item{
+    box-shadow: 1px 1px silver;
     display: flex;
     flex-direction: column;
     border: 1px solid rgb(30, 15, 98);
@@ -17,12 +18,13 @@
 
 .project-item:hover{
     cursor: pointer;
+    box-shadow: 1px 2px rgb(30, 15, 98);
+    scale: 1.01;
 }
 
 .bgImage{
     height: 130px;
     background-size: cover;
-   
     opacity: 1;
 }
 .project-item h3{
