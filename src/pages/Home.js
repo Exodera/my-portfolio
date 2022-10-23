@@ -11,8 +11,8 @@ const Home = ()=>{
         <div className="about">
             <h2>Hi there, My name is Oratile</h2>
             <p>
-                I am an aspiring website developer from South Africa. Extroverted and I love 
-                <br/>workjing on projects with others in a team.
+                I am an aspiring website developer from South Africa. I am Extroverted and love 
+                <br/>working on projects with others as a team.
                 
                
                 
