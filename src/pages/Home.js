@@ -12,9 +12,9 @@ const Home = ()=>{
             <h2>Hi there, My name is Oratile</h2>
             <p>
                 I am an aspiring website developer from South Africa, that loves
-                creating projects and colloborating 
+                working on a projects 
                 <br/>
-                with others on existing projects.
+                with others on in a team.
             </p>
             <ul className="social-icons">
                 <li><a href ="https://github.com/"><AiFillGithub/></a></li>

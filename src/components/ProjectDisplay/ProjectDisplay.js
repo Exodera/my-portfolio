@@ -12,7 +12,9 @@ const ProjectDisplay = () => {
     <div className='projectDisplay'>
         <h1>{project.name}</h1>
         <img className='proj-image' alt = 'project' src ={project.image} />
-        <p className='proj-skills'><b>Skills:</b> {project.skills} </p>
+        <p className='proj-skills'><b className='skillss'>Skills:</b> {project.skills} </p>
+        
+        
     </div>
   )
 }

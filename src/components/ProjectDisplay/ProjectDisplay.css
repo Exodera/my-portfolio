@@ -3,11 +3,22 @@
     font-size: 1.2rem
     
 }
-.ProjectDisplay{
+.projectDisplay{
      margin: 2rem 0;
-
 }
 
 .proj-image{
+    height: 500px;
     border: 1px solid black;
+    border-radius: 15px;
+}
+
+.projectDisplay h1{
+    margin: 2rem 0;
+}
+h1{
+    color: rgb(30, 15, 98);
+}
+.skillss{
+    color: rgb(30, 15, 98);
 }
