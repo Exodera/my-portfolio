@@ -19,7 +19,7 @@ const Home = ()=>{
             </p>
             <ul className="social-icons">
                 <li><a href ="https://github.com/Exodera" target={'_blank'} rel="noreferrer"><AiFillGithub/></a></li>
-                <li><a href ="https://www.linkedin.com/in/oratile-dithlage-401453121/" target={'_blank'} rel="noreferrer"><AiFillLinkedin/></a></li>
+                <li><a href ="https://profile.indeed.com/?hl=en&co=ZA&from=gnav-homepage&_ga=2.118801353.1906751790.1666523533-1073947447.1660322474" target={'_blank'} rel="noreferrer"><AiFillLinkedin/></a></li>
                 <li><a href ="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target={'_blank'} rel="noreferrer"><AiFillMail/></a></li>
             </ul>
          
