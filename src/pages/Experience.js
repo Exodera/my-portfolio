@@ -32,7 +32,7 @@ const Experience = () => {
           <h3 className='timeline-title'> 
             Attended Central University of Technology,<br/>Free State
           </h3>
-          <p>Currently working on Diploma in Information Technology</p>
+          <p><b>Currently studying:</b> Diploma in Information Technology</p>
 
          </VerticalTimelineElement>
       </VerticalTimeline>

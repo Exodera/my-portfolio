@@ -17,8 +17,4 @@ const Projects = () => {
   )
 }
 
-// {projectList.map((project, idx)=>{
-//   return <ProjectItem name = {project.name} image = {project.image} id = {idx}/>
-// })}
-
 export default Projects
