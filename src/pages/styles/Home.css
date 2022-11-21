@@ -45,9 +45,8 @@
     margin: 0 7px;
 }
 
-.social-icons li:hover{
+.social-icons li a:hover{
     color: rgb(222, 200, 75);
-   
     cursor: pointer;
 }
 
@@ -55,6 +54,5 @@
     color: white;
 }
 
-.social-icons li a:visited:hover{
-    color: rgb(222, 200, 75);
-}
+
+

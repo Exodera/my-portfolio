@@ -1,7 +1,7 @@
 import React from 'react'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component'
 import "react-vertical-timeline-component/style.min.css"
-import {MdSchool} from 'react-icons/md'
+import {IoSchool} from 'react-icons/io'
 import "./styles/Experience.css"
 import {FaUniversity} from 'react-icons/fa'
 
@@ -14,7 +14,7 @@ const Experience = () => {
         <VerticalTimelineElement 
         className='timeline-education'
         date="2014 - 2018"
-        icon={<MdSchool/>}
+        icon={<IoSchool/>}
         iconStyle = {{background: "rgb(30, 15, 98)", color: 'white'}} 
         >
           <h3 className='timeline-title'>
