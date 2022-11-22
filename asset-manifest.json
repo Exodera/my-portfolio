@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Star-Cars/static/css/main.05e438a1.css",
+    "main.js": "/Star-Cars/static/js/main.f328b308.js",
+    "static/js/787.128fc6e9.chunk.js": "/Star-Cars/static/js/787.128fc6e9.chunk.js",
+    "static/media/proj-starcars.jpg": "/Star-Cars/static/media/proj-starcars.7e0ea40030278fcd0534.jpg",
+    "static/media/proj-notepad.jpg": "/Star-Cars/static/media/proj-notepad.5d14582824dc514f1304.jpg",
+    "index.html": "/Star-Cars/index.html",
+    "main.05e438a1.css.map": "/Star-Cars/static/css/main.05e438a1.css.map",
+    "main.f328b308.js.map": "/Star-Cars/static/js/main.f328b308.js.map",
+    "787.128fc6e9.chunk.js.map": "/Star-Cars/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05e438a1.css",
+    "static/js/main.f328b308.js"
+  ]
+}
