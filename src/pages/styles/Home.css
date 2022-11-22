@@ -49,10 +49,14 @@
     color: rgb(222, 200, 75);
     cursor: pointer;
 }
-
-.social-icons li a:visited{
+.social-icons li a{
     color: white;
 }
+
+.skills h1{
+    color:rgb(222, 200, 75);
+}
+
 
 
 

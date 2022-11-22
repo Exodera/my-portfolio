@@ -25,7 +25,9 @@
 .bgImage{
     height: 130px;
     background-size: cover;
+    background-position: center;
     opacity: 1;
+   
 }
 .project-item h3{
     margin: 20px;

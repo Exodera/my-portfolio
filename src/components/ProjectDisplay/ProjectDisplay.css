@@ -1,16 +1,22 @@
+
+.proj-text{
+    margin: 2em 0;
+}
+
+.proj-text p{
+    font-size: 1.5em;
+}
+
 .proj-skills{
-    margin: 2rem 0;
-    font-size: 1.2rem
-    
+    font-size: 1.2rem; 
 }
 .projectDisplay{
-     margin: 2rem 0;
+    margin: 2em 0;
 }
 
 .proj-image{
-   
     width: 100%;
-    max-width: 300px;
+    max-width: 500px;
     height: auto;
     border: 1px solid black;
     border-radius: 15px;
