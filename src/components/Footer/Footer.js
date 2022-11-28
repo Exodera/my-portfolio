@@ -13,7 +13,7 @@ const Footer = ()=>{
                 <li><a href ="https://github.com/Exodera" rel="noreferrer" target={'_blank'}><AiFillGithub/></a></li>
             </ul>
             
-            <p>&copy; 2022 oratiletech.com</p>
+            <p>&copy; 2022 oratiletech</p>
             
         </div>
     )

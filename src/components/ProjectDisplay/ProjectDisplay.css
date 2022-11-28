@@ -1,25 +1,36 @@
 
-.proj-text{
-    margin: 2em 0;
+h3{
+    font-size: 1.125em;
+    color:rgb(54, 26, 183)
+
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.project-display a:visited{
+    color: black;
 }
 
-.proj-text p{
-    font-size: 1.5em;
-}
-
-.proj-skills{
-    font-size: 1.2rem; 
-}
-.projectDisplay{
-    margin: 2em 0;
+.project-content{
+    margin: 0 auto;
+    width: 90%;
 }
 
 .proj-image{
-    width: 100%;
-    max-width: 500px;
-    height: auto;
+    max-width: 90%;
     border: 1px solid black;
     border-radius: 15px;
+    margin-bottom: .75em;
+}
+.project-link{
+    margin-bottom: 1em;
+}
+
+.project-link:visited{
+    color: black;
 }
 
 .projectDisplay h1{
@@ -28,6 +39,32 @@
 h1{
     color: rgb(30, 15, 98);
 }
-.skillss{
-    color: rgb(30, 15, 98);
+
+
+.project-info p{
+    margin-bottom: 1em;
+}
+
+
+.github{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    gap: 0 .5em ;
+    background-color: rgb(187, 183, 183);
+    padding: .2em .3em;  
+    text-decoration: none;
+}
+.github-btn{
+   
+    display: block;
+    margin: 1em auto;
+}
+
+@media (min-width: 675px){
+    .proj-image{
+        max-height: 300px;
+    }
+    
 }

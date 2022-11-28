@@ -21,9 +21,8 @@
     color: #fff;
 }
 
-
-
 .footer{
+    margin-top: 1em;
     color: white;
     padding: 3rem;
 }
@@ -32,10 +31,13 @@
     background-color:rgb(30, 15, 98);
 }
 
+
 .social li a:hover{
     color: rgb(222, 200, 75);
     cursor: pointer;
 }
+
+
 
 
 

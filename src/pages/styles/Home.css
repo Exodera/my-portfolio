@@ -1,6 +1,9 @@
 :root{
     --primary: rgb(30, 15, 98);
 }
+body{
+    background-color: #f8f8f8;
+}
 .about{
     background: rgb(30, 15, 98);
     padding:50px;
@@ -53,9 +56,11 @@
     color: white;
 }
 
-.skills h1{
-    color:rgb(222, 200, 75);
-}
+
+
+
+
+
 
 
 
